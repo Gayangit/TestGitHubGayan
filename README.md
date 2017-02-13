@@ -1,2 +1,2 @@
 # TestGitHubGayan
-Github Tutorial
+TestGithub is a repository for showing the bare minimums of github and how make neuver,function, etc...
